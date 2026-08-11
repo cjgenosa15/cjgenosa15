@@ -1,20 +1,20 @@
-<!-- MAIN HEADER BANNER -->
+<!-- MAIN HEADER BANNER (GIF for movement) -->
 <div align="center">
-  <img src="assets/HEADER.svg" width="100%" style="max-width: 800px; image-rendering: pixelated;" alt="Header" />
+  <img src="assets/HEADER.gif" width="100%" style="max-width: 800px; image-rendering: pixelated;" alt="Header" />
 </div>
 
 <br />
 
-<!-- HUD STATUS BARS -->
+<!-- HUD STATUS BARS (GIF for animated bars/hearts) -->
 <div align="center">
-  <img src="assets/Energy_Bar.svg" height="35" style="image-rendering: pixelated;" alt="Energy Bar" />
+  <img src="assets/Energy_Bar.gif" height="35" style="image-rendering: pixelated;" alt="Energy Bar" />
   &nbsp;&nbsp;
-  <img src="assets/Mana_Bar.svg" height="35" style="image-rendering: pixelated;" alt="Mana Bar" />
+  <img src="assets/Mana_Bar.gif" height="35" style="image-rendering: pixelated;" alt="Mana Bar" />
 </div>
 
 <br />
 
-<!-- MENU BUTTONS -->
+<!-- MENU BUTTONS (Static SVG or Animated GIF) -->
 <div align="center">
   <a href="#active-quests">
     <img src="assets/Clickable_Menu_Buttons-PRESS_START.svg" width="140" style="image-rendering: pixelated;" />
