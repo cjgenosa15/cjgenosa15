@@ -1,135 +1,94 @@
-<!-- TOP FLOATING CLOUDS DECORATION -->
+<!-- MAIN HEADER BANNER -->
 <div align="center">
-  <img src="assets/300x100-CLOUD.svg" width="200" style="image-rendering: pixelated;" />
-</div>
-
-<!-- MAIN BANNER FLANKED BY TORCH AND GARGOYLE -->
-<div align="center">
-  <img src="assets/150x300_TORCH.svg" height="180" style="image-rendering: pixelated;" />
-  <img src="assets/HEADER.svg" width="65%" style="image-rendering: pixelated;" />
-  <img src="assets/150x300_GARYOLE.svg" height="180" style="image-rendering: pixelated;" />
+  <img src="assets/HEADER.svg" width="100%" style="max-width: 800px; image-rendering: pixelated;" alt="Header" />
 </div>
 
 <br />
 
-<!-- PLAYER HUD: ENERGY & MANA BARS -->
+<!-- HUD STATUS BARS -->
 <div align="center">
-  <img src="assets/100x100-HEART.svg" width="30" style="image-rendering: pixelated;" />
-  <img src="assets/Energy_Bar.svg" width="250" style="image-rendering: pixelated;" />
+  <img src="assets/Energy_Bar.svg" height="35" style="image-rendering: pixelated;" alt="Energy Bar" />
   &nbsp;&nbsp;
-  <img src="assets/Mana_Bar.svg" width="250" style="image-rendering: pixelated;" />
-  <img src="assets/100x100-GEM.svg" width="30" style="image-rendering: pixelated;" />
+  <img src="assets/Mana_Bar.svg" height="35" style="image-rendering: pixelated;" alt="Mana Bar" />
 </div>
 
 <br />
 
-<!-- CLICKABLE MENU BUTTONS -->
+<!-- MENU BUTTONS -->
 <div align="center">
   <a href="#active-quests">
-    <img src="assets/Clickable_Menu_Buttons-PRESS_START.svg" width="160" style="image-rendering: pixelated;" />
+    <img src="assets/Clickable_Menu_Buttons-PRESS_START.svg" width="140" style="image-rendering: pixelated;" />
   </a>
-  <a href="https://github.com/yourusername?tab=repositories">
-    <img src="assets/Clickable_Menu_Buttons-VIEW_CODE.svg" width="160" style="image-rendering: pixelated;" />
+  <a href="https://github.com/cjgenosa15?tab=repositories">
+    <img src="assets/Clickable_Menu_Buttons-VIEW_CODE.svg" width="140" style="image-rendering: pixelated;" />
   </a>
   <a href="#guild-contact">
-    <img src="assets/Clickable_Menu_Buttons-SEND_MESSAGE.svg" width="160" style="image-rendering: pixelated;" />
+    <img src="assets/Clickable_Menu_Buttons-SEND_MESSAGE.svg" width="140" style="image-rendering: pixelated;" />
   </a>
 </div>
 
 <br />
 
-<!-- MAIN UI DIVIDER -->
-<img src="assets/UI-Divider.svg" width="100%" height="30" style="image-rendering: pixelated; object-fit: cover;" />
-
-<br /><br />
-
-<!-- SECTION 1: EQUIPPED SKILLS -->
+<!-- DIVIDER -->
 <div align="center">
-  <img src="assets/Section_Header_Banner-EQUIPPED_SKILLS.svg" width="100%" style="image-rendering: pixelated;" />
+  <img src="assets/UI-Divider.svg" width="100%" height="16" style="image-rendering: pixelated; object-fit: fill;" />
+</div>
+
+<br />
+
+<!-- EQUIPPED SKILLS SECTION -->
+<div align="center">
+  <img src="assets/Section_Header_Banner-EQUIPPED_SKILLS.svg" width="500" style="image-rendering: pixelated;" alt="Equipped Skills" />
 </div>
 
 <br />
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="33%">
-        <img src="assets/Tech_Skill_Container-C.svg" width="120" style="image-rendering: pixelated;" /><br/>
-        <b>C LANGUAGE</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="assets/100x100-KEY.svg" width="80" style="image-rendering: pixelated;" /><br/>
-        <b>QUEST ITEM</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="assets/100x100-SKULL.svg" width="80" style="image-rendering: pixelated;" /><br/>
-        <b>DUNGEON BOSS</b>
-      </td>
-    </tr>
-  </table>
+  <img src="assets/Tech_Skill_Container-C.svg" width="100" style="image-rendering: pixelated;" alt="C Language" />
 </div>
 
 <br />
 
-<!-- MOSS CHAIN DIVIDER -->
+<!-- DIVIDER -->
 <div align="center">
-  <img src="assets/300x100-MOSS_CHAIN.svg" width="300" style="image-rendering: pixelated;" />
+  <img src="assets/UI-Divider.svg" width="100%" height="16" style="image-rendering: pixelated; object-fit: fill;" />
 </div>
 
 <br />
 
-<!-- SECTION 2: ACTIVE QUESTS -->
+<!-- ACTIVE QUESTS SECTION -->
 <a id="active-quests"></a>
 <div align="center">
-  <img src="assets/Section_Header_Banner-ACTIVE_QUESTS.svg" width="100%" style="image-rendering: pixelated;" />
+  <img src="assets/Section_Header_Banner-ACTIVE_QUESTS.svg" width="500" style="image-rendering: pixelated;" alt="Active Quests" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="assets/150x300_SWORD.svg" height="120" style="image-rendering: pixelated;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yourusername/your-repo">
-    <img src="assets/Clickable_Menu_Buttons-VIEW_CODE.svg" width="200" style="image-rendering: pixelated;" />
+  <a href="https://github.com/cjgenosa15?tab=repositories">
+    <img src="assets/Clickable_Menu_Buttons-VIEW_CODE.svg" width="180" style="image-rendering: pixelated;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/150x300_SWORD.svg" height="120" style="image-rendering: pixelated;" />
 </div>
 
 <br />
 
-<img src="assets/UI-Divider.svg" width="100%" height="30" style="image-rendering: pixelated; object-fit: cover;" />
-
-<br /><br />
-
-<!-- SECTION 3: STUDENT STATS -->
+<!-- DIVIDER -->
 <div align="center">
-  <img src="assets/Section_Header_Banner-STUDENT_STATS.svg" width="100%" style="image-rendering: pixelated;" />
+  <img src="assets/UI-Divider.svg" width="100%" height="16" style="image-rendering: pixelated; object-fit: fill;" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="assets/100x100-CLICKING_CURSOR.svg" width="40" style="image-rendering: pixelated;" />
-  <p><i>Tracking progress, assignments, and dungeon levels.</i></p>
-</div>
-
-<br />
-
-<img src="assets/UI-Divider.svg" width="100%" height="30" style="image-rendering: pixelated; object-fit: cover;" />
-
-<br /><br />
-
-<!-- SECTION 4: GUILD CONTACT -->
+<!-- GUILD CONTACT SECTION -->
 <a id="guild-contact"></a>
 <div align="center">
-  <img src="assets/Section_Header_Banner-GUILD_CONTACT.svg" width="100%" style="image-rendering: pixelated;" />
+  <img src="assets/Section_Header_Banner-GUILD_CONTACT.svg" width="500" style="image-rendering: pixelated;" alt="Guild Contact" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="assets/Clickable_Menu_Buttons-SEND_MESSAGE.svg" width="220" style="image-rendering: pixelated;" />
+  <a href="https://www.linkedin.com/in/cjgenosa/">
+    <img src="assets/Clickable_Menu_Buttons-SEND_MESSAGE.svg" width="180" style="image-rendering: pixelated;" />
   </a>
 </div>
