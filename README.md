@@ -1,94 +1,72 @@
-<!-- MAIN HEADER BANNER -->
+<!-- 1. HEADER TITLE SCENE -->
 <div align="center">
-  <img src="assets/HEADER.svg" width="100%" alt="Header" />
+  <img src="assets/BG_01_HEADER.png" width="100%" style="display: block; image-rendering: pixelated;" alt="CJ Genosa Header" />
 </div>
 
-<br />
-
-<!-- HUD STATUS BARS -->
+<!-- 2. EQUIPPED SKILL BANNER -->
 <div align="center">
-  <img src="assets/Energy_Bar.svg" width="240" alt="Energy Bar" />
-  &nbsp;&nbsp;
-  <img src="assets/Mana_Bar.svg" width="240" alt="Mana Bar" />
+  <img src="assets/BG_02_BANNER_SKILLS.png" width="100%" style="display: block; image-rendering: pixelated;" alt="Equipped Skill" />
 </div>
 
-<br />
-
-<!-- MENU BUTTONS -->
-<div align="center">
-  <a href="#active-quests">
-    <img src="assets/Clickable_Menu_Buttons-PRESS_START.svg" width="150" alt="Press Start" />
-  </a>
-  <a href="https://github.com/cjgenosa15?tab=repositories">
-    <img src="assets/Clickable_Menu_Buttons-VIEW_CODE.svg" width="150" alt="View Code" />
-  </a>
-  <a href="#guild-contact">
-    <img src="assets/Clickable_Menu_Buttons-SEND_MESSAGE.svg" width="150" alt="Send Message" />
-  </a>
-</div>
-
-<br />
-
-<!-- UI DIVIDER -->
-<div align="center">
-  <img src="assets/UI-Divider.svg" width="100%" alt="Divider" />
-</div>
-
-<br />
-
-<!-- EQUIPPED SKILLS SECTION -->
-<div align="center">
-  <img src="assets/Section_Header_Banner-EQUIPPED_SKILLS.svg" width="100%" alt="Equipped Skills" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="assets/Tech_Skill_Container-C.svg" width="120" alt="C Language" />
-</div>
-
-<br />
-
-<!-- UI DIVIDER -->
-<div align="center">
-  <img src="assets/UI-Divider.svg" width="100%" alt="Divider" />
-</div>
-
-<br />
-
-<!-- ACTIVE QUESTS SECTION -->
-<a id="active-quests"></a>
-<div align="center">
-  <img src="assets/Section_Header_Banner-ACTIVE_QUESTS.svg" width="100%" alt="Active Quests" />
-</div>
-
-<br />
-
+<!-- 3. C LANGUAGE TOMBSTONE -->
 <div align="center">
   <a href="https://github.com/cjgenosa15?tab=repositories">
-    <img src="assets/Clickable_Menu_Buttons-VIEW_CODE.svg" width="180" alt="View Projects" />
+    <img src="assets/BG_03_TILE_C_LANG.png" width="100%" style="display: block; image-rendering: pixelated;" alt="C Language" />
   </a>
 </div>
 
-<br />
-
-<!-- UI DIVIDER -->
+<!-- 4. QUESTS BANNER -->
 <div align="center">
-  <img src="assets/UI-Divider.svg" width="100%" alt="Divider" />
+  <img src="assets/BG_04_BANNER_QUESTS.png" width="100%" style="display: block; image-rendering: pixelated;" alt="Quests" />
 </div>
 
-<br />
-
-<!-- GUILD CONTACT SECTION -->
-<a id="guild-contact"></a>
+<!-- 5. 3 QUEST TOMBSTONES -->
 <div align="center">
-  <img src="assets/Section_Header_Banner-GUILD_CONTACT.svg" width="100%" alt="Guild Contact" />
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td width="33.33%" align="center" valign="top">
+        <a href="https://github.com/cjgenosa15/asking-out-website">
+          <img src="assets/BG_05_QUEST_1.png" width="100%" style="display: block; image-rendering: pixelated;" alt="Asking Out Website" />
+        </a>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <a href="https://github.com/cjgenosa15/oasis">
+          <img src="assets/BG_05_QUEST_2.png" width="100%" style="display: block; image-rendering: pixelated;" alt="OASIS" />
+        </a>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <a href="https://github.com/cjgenosa15/c-practices">
+          <img src="assets/BG_05_QUEST_3.png" width="100%" style="display: block; image-rendering: pixelated;" alt="C Practices" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
-
+<!-- 6. GUILD CONTACT BANNER -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/cjgenosa/">
-    <img src="assets/Clickable_Menu_Buttons-SEND_MESSAGE.svg" width="180" alt="Contact" />
-  </a>
+  <img src="assets/BG_06_BANNER_CONTACT.png" width="100%" style="display: block; image-rendering: pixelated;" alt="Guild Contact" />
+</div>
+
+<!-- 7. 3 SOCIAL TOMBSTONES & KNIGHT GROUND -->
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td width="33.33%" align="center" valign="top">
+        <a href="https://facebook.com/your-profile">
+          <img src="assets/BG_07_SOCIAL_FB.png" width="100%" style="display: block; image-rendering: pixelated;" alt="Facebook" />
+        </a>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <a href="https://www.linkedin.com/in/cjgenosa/">
+          <img src="assets/BG_07_SOCIAL_IN.png" width="100%" style="display: block; image-rendering: pixelated;" alt="LinkedIn" />
+        </a>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <a href="https://instagram.com/your-profile">
+          <img src="assets/BG_07_SOCIAL_IG.png" width="100%" style="display: block; image-rendering: pixelated;" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
