@@ -30,7 +30,7 @@
 
 <!-- 5. 3 QUEST TOMBSTONES -->
 <div align="center">
-  <a href="https://github.com/cjgenosa15/asking-out-website"><img src="https://github.com/user-attachments/assets/bff3f466-ddcf-4adb-a4db-58bb81f4ebbf" width="32%" align="top" alt="Asking Out Website" /></a><a href="https://github.com/cjgenosa15/oasis"><img src="https://github.com/user-attachments/assets/6303e1a0-8e45-45dd-a308-fad9103b9beb" width="32%" align="top" alt="OASIS" /></a><a href="https://github.com/cjgenosa15/c-practices"><img src="https://github.com/user-attachments/assets/37f6d53c-3f8f-4973-877f-d62f01585276" width="32%" align="top" alt="C Practices" /></a>
+  <a href="https://cjgenosa15.github.io/MWHEHEHEHEHEEEEE/"><img src="https://github.com/user-attachments/assets/bff3f466-ddcf-4adb-a4db-58bb81f4ebbf" width="32%" align="top" alt="Asking Out Website" /></a><a href="https://github.com/jams385/Oasis_2D-Wave-Defender-Game"><img src="https://github.com/user-attachments/assets/6303e1a0-8e45-45dd-a308-fad9103b9beb" width="32%" align="top" alt="OASIS" /></a><a href="https://github.com/cjgenosa15/C-Practice-and-Review"><img src="https://github.com/user-attachments/assets/37f6d53c-3f8f-4973-877f-d62f01585276" width="32%" align="top" alt="C Practices" /></a>
 </div>
 
 <br />
@@ -44,5 +44,5 @@
 
 <!-- 7. 3 SOCIAL TOMBSTONES -->
 <div align="center">
-  <a href="https://facebook.com/your-profile"><img src="https://github.com/user-attachments/assets/3c25b5c6-9bb8-4240-931d-171c9faec594" width="32%" align="top" alt="Facebook" /></a><a href="https://www.linkedin.com/in/cjgenosa/"><img src="https://github.com/user-attachments/assets/22ddf69e-18b1-4713-98fe-a8c1e5b0e7be" width="32%" align="top" alt="LinkedIn" /></a><a href="https://instagram.com/your-profile"><img src="https://github.com/user-attachments/assets/36ad0d93-3f10-4a55-9a44-0edfc384d6d1" width="32%" align="top" alt="Instagram" /></a>
+  <a href="https://facebook.com/genosacj"><img src="https://github.com/user-attachments/assets/3c25b5c6-9bb8-4240-931d-171c9faec594" width="32%" align="top" alt="Facebook" /></a><a href="https://www.linkedin.com/in/cjgenosa/"><img src="https://github.com/user-attachments/assets/22ddf69e-18b1-4713-98fe-a8c1e5b0e7be" width="32%" align="top" alt="LinkedIn" /></a><a href="https://instagram.com/_genosaurus"><img src="https://github.com/user-attachments/assets/36ad0d93-3f10-4a55-9a44-0edfc384d6d1" width="32%" align="top" alt="Instagram" /></a>
 </div>
