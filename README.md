@@ -14,7 +14,7 @@
 
 <!-- 3. C LANGUAGE TOMBSTONE -->
 <div align="center">
-  <a href="https://github.com/cjgenosa15?tab=repositories">
+  <a href="https://www.c-language.org/">
     <img src="https://github.com/user-attachments/assets/8d3bd0f8-8935-4ead-8e7b-7b92196b1143" width="100%" alt="C Language" />
   </a>
 </div>
